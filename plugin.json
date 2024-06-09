@@ -1,6 +1,6 @@
 {
   "id": "acode.plugin",
-  "name": "Acode_Copilot",
+  "name": "Github_Copilot",
   "main": "dist/main.js",
   "version": "1.0.0",
   "readme": "readme.md",
