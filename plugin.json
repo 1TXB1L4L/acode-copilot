@@ -1,6 +1,6 @@
 {
   "id": "acode.plugin",
-  "name": "Plugin",
+  "name": "Acode_Copilot",
   "main": "dist/main.js",
   "version": "1.0.0",
   "readme": "readme.md",
@@ -9,8 +9,8 @@
   "minVersionCode" : 290,
   "price": 0,
   "author": {
-    "name": "",
-    "email": "",
-    "github": ""
+    "name": "Muhammad Bilal Saleem",
+    "email": "mbilal2913@gmail.com",
+    "github": "https:github.com/1txb1l4l"
   }
 }
